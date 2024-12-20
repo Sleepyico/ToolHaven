@@ -13,7 +13,7 @@ import {
   mnemonicToEntropy,
   portugueseWordList,
   spanishWordList,
-} from '@ToolHaven/bip39';
+} from '@it-tools/bip39';
 import { Copy, Refresh } from '@vicons/tabler';
 
 import { useCopy } from '@/composable/copy';
